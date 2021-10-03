@@ -7,12 +7,10 @@ Developed for Windows x64 (64 bit) Operating Systems
 
 --------------------------------------------------------------------------------------------
 **Compo Rules:
-	**- You must work alone (solo).
-	**- Your game, all your content (i.e. Art, Music, Sound, etc) must be created in 48 hours.
-	**- Source code must be included.
+	**- You must work alone (solo).**
+	**- Your game, all your content (i.e. Art, Music, Sound, etc) must be created in 48 hours.**
+	**- Source code must be included.**
 	
-	// Having issues uploading source code to GitHub due to Git LFS, resolving soon
-
 
 --------------------------------------------------------------------------------------------
 
